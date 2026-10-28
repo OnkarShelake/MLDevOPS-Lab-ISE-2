@@ -12,7 +12,7 @@ pipeline {
             steps {
                 echo '📥 Cloning source code from GitHub...'
                 git branch: 'main',
-                    url: 'https://github.com/PrafullHarer/MLDevOPS-Lab-ISE-2.git'
+                    url: 'https://github.com/OnkarShelake/MLDevOPS-Lab-ISE-2.git'
             }
         }
 
