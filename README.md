@@ -38,7 +38,7 @@ MLDevOPS-Lab-ISE-2/
 
 ### 1. Clone & Setup
 ```bash
-git clone https://github.com/PrafullHarer/MLDevOPS-Lab-ISE-2.git
+git clone https://github.com/OnkarShelake/MLDevOPS-Lab-ISE-2.git
 cd MLDevOPS-Lab-ISE-2
 pip install -r requirements.txt
 ```
